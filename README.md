@@ -34,7 +34,7 @@ quote-generator/
 1. **Clone the Repository**:
    - Open your terminal and run the following command:
      ```bash
-     git clone https://github.com/yourusername/quote-generator.git
+     git clone https://github.com/Syntaxpert/quote-generator.git
      ```
 2. **Open `index.html` in your favorite browser**.
 3. **Click the button** to generate a new quote!
@@ -53,8 +53,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open a pull request or issue.
 
-## 🤝 Connect
-
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
