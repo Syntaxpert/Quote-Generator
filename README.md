@@ -27,15 +27,6 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript**: To add interactivity and functionality.
 - 🌐 **API Integration**: Fetch quotes dynamically from an external API.
 
-## 📂 Project Structure
-
-
-quote-generator/
-│
-├── index.html          # The main HTML file
-├── style.css           # Custom CSS for styling the app
-├── app.js              # JavaScript logic for fetching and displaying quotes
-└── README.md           # Project documentation
 
 ## 💻 How to Use
 
