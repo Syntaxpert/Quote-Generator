@@ -46,7 +46,7 @@
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Syntaxpert/Quote-Generator/blob/main/MIT%20License) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Syntaxpert/Quote-Generator/edit/main/license.md) file for details.
 
 ## Contributing
 
