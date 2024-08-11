@@ -22,7 +22,7 @@ Welcome to the **Quote Generator** project! 🎉 This simple yet elegant app all
 
 ## 📂 Project Structure
 
-```bash
+
 quote-generator/
 │
 ├── index.html          # The main HTML file
