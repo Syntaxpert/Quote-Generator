@@ -10,7 +10,7 @@
 > Simply load the page, click the button, and receive a randomly generated quote from a curated collection. 
 > It's perfect for daily inspiration or whenever you need a quick boost of positivity.
 > 
->  **How it Affects the World**: Discover how powerful words can influence and inspire lives by reading this insightful [article on the impact of inspirational quotes](https://www.fastcompany.com/3051432/why-inspirational-quotes-motivate-us).
+>  **How it Affects the World**: Discover how powerful words can influence and inspire lives by reading this insightful [Science behind why quotes motivate us](https://www.fastcompany.com/3051432/why-inspirational-quotes-motivate-us).
 
 
 ## 🚀 Features
