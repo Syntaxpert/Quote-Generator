@@ -4,11 +4,14 @@
 
 
 [![Quote Generator](https://private-user-images.githubusercontent.com/58376810/356894203-5f598ad1-cf41-4bec-95e9-cdd9cdc3d961.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMzOTY1NTIsIm5iZiI6MTcyMzM5NjI1MiwicGF0aCI6Ii81ODM3NjgxMC8zNTY4OTQyMDMtNWY1OThhZDEtY2Y0MS00YmVjLTk1ZTktY2RkOWNkYzNkOTYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDE3MTA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2MzBmZDk2NmQyOWY3YWRiYWVkMjdiMTkwODEzYTk3YjA5NTNlMmRkZGY5Mzc3ZTVmOTJlNzA2NDNhYTUwNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zMyJyM2jUH23NpZptQfLRelMUFDGphhgXBs1CL5dhlM)](https://minimalist-quotes.netlify.app/)
-> ## 💬 About 
+> ## 💬 About the Quote Generator
 > 
 > The **Quote Generator** is a sleek, minimalistic web app designed to inspire and motivate you with just a click. 
 > Simply load the page, click the button, and receive a randomly generated quote from a curated collection. 
 > It's perfect for daily inspiration or whenever you need a quick boost of positivity.
+> 
+>  **How it Affects the World**: Discover how powerful words can influence and inspire lives by reading this insightful [article on the impact of inspirational quotes](https://www.forbes.com/sites/forbescoachescouncil/2021/09/14/the-power-of-inspirational-quotes-and-how-they-can-impact-your-daily-life/).
+
 
 ## 🚀 Features
 
