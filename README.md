@@ -38,7 +38,7 @@
 2. **Open `index.html` in your favorite browser**.
 3. **Click the button** to generate a new quote!
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository** to your local machine.
 2. **Navigate to the project directory**.
