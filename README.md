@@ -28,7 +28,7 @@
 - 🌐 **API Integration**: Fetch quotes dynamically from an external API.
 
 
-## 💻 How to Use
+## How to Use
 
 1. **Clone the Repository**:
    - Open your terminal and run the following command:
@@ -44,11 +44,11 @@
 2. **Navigate to the project directory**.
 3. **Open the `index.html` file** in your browser to see the project in action.
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 🎨 Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open a pull request or issue.
 
