@@ -4,6 +4,7 @@ Welcome to the **Quote Generator** project! This simple yet elegant project allo
 
 ## 📸 Screenshot
 
+[![Quote Generator](screenshot-minimalist-quotes_netlify_app-2024_08_11-13_00_48.png)](https://minimalist-quotes.netlify.app/)
 
 
 
