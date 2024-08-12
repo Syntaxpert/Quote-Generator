@@ -1,4 +1,4 @@
-# Minimalstic Quote Generator 
+#  Quote Generator 
 
 
 
